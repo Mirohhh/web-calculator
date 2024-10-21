@@ -56,11 +56,11 @@ button{
     background-color: rgb(131, 193, 255);
 }
 
-.operator{
+.operator, .equals{
     background-color: orange;
 }
 
-.operator:hover{
+.operator:hover, .equals:hover{
     background-color: rgb(255, 213, 136);
 }
 
